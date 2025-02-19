@@ -6,7 +6,7 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** PHP, JavaScript, TypeScript, C#, Python, Pawn
+- **Languages:** PHP, Javascript, Typescript, C#, Python, Pawn
 - **Frameworks:** Laravel, NodeJS, Livewire, Bootstrap
 - **Databases:** MySQL, MariaDB, PostgreSQL, SQLite
 - **Tools:** Git, Docker, Composer, Moodle
